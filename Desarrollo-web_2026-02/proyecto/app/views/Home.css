@@ -1,0 +1,9 @@
+h1{
+    background-color: aliceblue;
+}
+
+.item-container{
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+}
